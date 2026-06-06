@@ -14,6 +14,7 @@ This project focuses on building a machine learning model to predict lead conver
 This project aims to solve the problem of efficiently identifying potential converting leads for ExtraaLearn. By leveraging machine learning, the project helps optimize resource allocation, improve marketing strategies, and enhance overall business efficiency. The solution benefits ExtraaLearn by providing data-driven insights to prioritize sales efforts and increase conversion rates.
 
 ---
+<center> <img src="screenshots/Frontend.png" alt="System Design Diagram" width="900"></center>
 
 ## Business Problem
 
