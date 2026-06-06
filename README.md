@@ -1,6 +1,4 @@
-# lead_conversion
-Model to predict if leads will convert or not
-
+# Model to predict if leads will convert or not
 
 ExtraaLearn Lead Conversion Prediction
 This project focuses on building a machine learning model to predict lead conversion for ExtraaLearn, an EdTech startup.
